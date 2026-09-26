@@ -1,0 +1,10 @@
+download Minecraft launcher
+download java by using the java installer in this folder
+install forge with the installer in here
+press win + R and run %appdata%
+once in there select roaming then .Minecraft
+after that find the mods folder if none make one
+open a new file explorer and don't replace the current one!
+copy the mods from my folder then go back and put them in the other folder you found or made!
+
+Finnaly launch Minecraft forge
