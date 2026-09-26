@@ -2,7 +2,7 @@
 
 # SERVER5
 
-files and mods download here --> https://drive.google.com/drive/folders/1v01RfLV-IzMDg0jDwTbJrzorINqCxyBz?usp=drive_link
+files and mods download here --> copy and paste this link --> https://drive.google.com/drive/folders/1v01RfLV-IzMDg0jDwTbJrzorINqCxyBz?usp=drive_link
 # guide
 <img src="https://github.com/dilloniscoolrgb/SERVER5/blob/main/guide.png" width="700" height="900"/>
 
