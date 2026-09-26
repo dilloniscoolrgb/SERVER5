@@ -1,4 +1,4 @@
-<img src="/images.png" width="200" height="200"/>
+<img src="https://github.com/dilloniscoolrgb/SERVER5/blob/main/images.png" width="200" height="200"/>
 
 # SERVER5
 
